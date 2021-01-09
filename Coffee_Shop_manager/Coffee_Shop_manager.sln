@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{A7C369CC-B616-41EF-A208-80DF957EACC8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coffee_Shop_manager", "Coffee_Shop_manager\Coffee_Shop_manager.csproj", "{15C2B3C9-4078-4202-98AB-267A2A8E1E18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A7C369CC-B616-41EF-A208-80DF957EACC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A7C369CC-B616-41EF-A208-80DF957EACC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A7C369CC-B616-41EF-A208-80DF957EACC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A7C369CC-B616-41EF-A208-80DF957EACC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C2B3C9-4078-4202-98AB-267A2A8E1E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C2B3C9-4078-4202-98AB-267A2A8E1E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C2B3C9-4078-4202-98AB-267A2A8E1E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C2B3C9-4078-4202-98AB-267A2A8E1E18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2C9CF656-7B66-4100-BCF0-B700038E82C4}
+		SolutionGuid = {760983E5-74C3-43D3-82A7-4591B516A4AB}
 	EndGlobalSection
 EndGlobal

@@ -8,13 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp1
+namespace Coffee_Shop_manager
 {
-    public partial class Form1 : Form
+    public partial class fAcountProfile : Form
     {
-        public Form1()
+        public fAcountProfile()
         {
             InitializeComponent();
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

@@ -1,0 +1,15 @@
+D:\Coffee_Shop_manager\Coffee_Shop_manager\Coffee_Shop_manager\bin\Debug\Coffee_Shop_manager.exe.config
+D:\Coffee_Shop_manager\Coffee_Shop_manager\Coffee_Shop_manager\bin\Debug\Coffee_Shop_manager.exe
+D:\Coffee_Shop_manager\Coffee_Shop_manager\Coffee_Shop_manager\bin\Debug\Coffee_Shop_manager.pdb
+D:\Coffee_Shop_manager\Coffee_Shop_manager\Coffee_Shop_manager\obj\Debug\Coffee_Shop_manager.csprojAssemblyReference.cache
+D:\Coffee_Shop_manager\Coffee_Shop_manager\Coffee_Shop_manager\obj\Debug\Coffee_Shop_manager.fLogin.resources
+D:\Coffee_Shop_manager\Coffee_Shop_manager\Coffee_Shop_manager\obj\Debug\Coffee_Shop_manager.Properties.Resources.resources
+D:\Coffee_Shop_manager\Coffee_Shop_manager\Coffee_Shop_manager\obj\Debug\Coffee_Shop_manager.csproj.GenerateResource.cache
+D:\Coffee_Shop_manager\Coffee_Shop_manager\Coffee_Shop_manager\obj\Debug\Coffee_Shop_manager.csproj.CoreCompileInputs.cache
+D:\Coffee_Shop_manager\Coffee_Shop_manager\Coffee_Shop_manager\obj\Debug\Coffee_Shop_manager.exe
+D:\Coffee_Shop_manager\Coffee_Shop_manager\Coffee_Shop_manager\obj\Debug\Coffee_Shop_manager.pdb
+D:\Coffee_Shop_manager\Coffee_Shop_manager\Coffee_Shop_manager\bin\Debug\Guna.UI2.dll
+D:\Coffee_Shop_manager\Coffee_Shop_manager\Coffee_Shop_manager\obj\Debug\Coffee_Shop_manager.csproj.CopyComplete
+D:\Coffee_Shop_manager\Coffee_Shop_manager\Coffee_Shop_manager\obj\Debug\Coffee_Shop_manager.fTable.resources
+D:\Coffee_Shop_manager\Coffee_Shop_manager\Coffee_Shop_manager\obj\Debug\Coffee_Shop_manager.fAcountProfile.resources
+D:\Coffee_Shop_manager\Coffee_Shop_manager\Coffee_Shop_manager\obj\Debug\Coffee_Shop_manager.fAdmind.resources

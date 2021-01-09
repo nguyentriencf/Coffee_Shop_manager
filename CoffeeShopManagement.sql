@@ -140,6 +140,25 @@ if(@nameTable ='Bill')
 			set @i = @i + 1
 		end	
 	set @NewMa = @NewMa + convert(varchar(3), @stt) 
+if(@nameTable ='BillInfo')
+	if exists(select * from [BillInfo])
+		 begin
+		select @MaxMa = max(IdBiInFo) 
+		from BillInfo
+
+		set @stt=convert(int, right(@MaxMa,3)) + 1 
+	 end
+	else
+	 set @stt= 1 
+	set @sokyso = len(convert(varchar(3), @stt))
+	set @NewMa='MB'
+	set @i = 0
+	while @i < 3 -@sokyso
+		begin
+			set @NewMa = @NewMa + '0'
+			set @i = @i + 1
+		end	
+	set @NewMa = @NewMa + convert(varchar(3), @stt) 
 return @NewMa
 
 End
@@ -176,6 +195,7 @@ if(@nameTable ='DrAndFo')
 			set @i = @i + 1
 		end	
 	set @NewMa = @NewMa + convert(varchar(3), @stt) 
+
 return @NewMa
 
 End
@@ -184,3 +204,6 @@ print dbo.SinhMaNuoc('DrAndFo')
 select * from [Table]
 
 insert into [Table] values ('011', N'Bàn 1', 0)
+
+select * from [Table]
+delete [Table] where IdTable = 011
